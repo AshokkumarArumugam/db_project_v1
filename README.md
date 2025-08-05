@@ -1,2 +1,3 @@
-# db_project_v1
-db_project_v1
+# DB Project Template
+
+This is a sample DB project structure for GitHub SCM testing.
