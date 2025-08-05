@@ -1,0 +1,1 @@
+-- create_customer_table.sql placeholder
