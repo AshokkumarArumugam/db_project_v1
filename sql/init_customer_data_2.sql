@@ -1,0 +1,1 @@
+-- init_customer_data_2.sql placeholder

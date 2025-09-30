@@ -1,0 +1,1 @@
+-- spc_customer_mgmt_2.sql placeholder
